@@ -1,0 +1,15 @@
+# Dependency directory - 非常重要，为了解决我们遇到的部署问题
+node_modules/
+
+# Public folder (Hexo生成的网站文件)
+public/
+
+# Database file
+db.json
+
+# Mac system files
+.DS_Store
+
+# Log files
+debug.log
+*.log
